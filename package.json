@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "@ai-sdk/google": "^3.0.34",
-    "ai": "^6.0.105",
+    "@ai-sdk/google": "^3.0.36",
+    "ai": "^6.0.108",
     "next": "^16.1.6",
     "replicate": "^1.4.0"
   }
